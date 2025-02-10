@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.13.0](https://github.com/taikoxyz/taiko-geth/compare/v1.12.0...v1.13.0) (2025-02-10)
+
+
+### Features
+
+* **consensus:** introduce `AnchorV3GasLimit` ([#378](https://github.com/taikoxyz/taiko-geth/issues/378)) ([a0b97be](https://github.com/taikoxyz/taiko-geth/commit/a0b97be30cc01a93cebbd2d7188d28b0dcc5989a))
+* **consensus:** update `TaikoAnchor.anchorV3` selector ([#379](https://github.com/taikoxyz/taiko-geth/issues/379)) ([1e948cf](https://github.com/taikoxyz/taiko-geth/commit/1e948cff4c83e7a5cb0d8a4db27cbe59ce2a8884))
+* **eth:** changes based on protocol `Pacaya` fork ([#367](https://github.com/taikoxyz/taiko-geth/issues/367)) ([7bf5c0d](https://github.com/taikoxyz/taiko-geth/commit/7bf5c0d259f60f9d62d481c873053548c87b6fb5))
+
 ## [1.12.0](https://github.com/taikoxyz/taiko-geth/compare/v1.11.1...v1.12.0) (2025-01-31)
 
 
