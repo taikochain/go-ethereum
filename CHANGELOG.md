@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.13.0](https://github.com/taikoxyz/taiko-geth/compare/v1.12.0...v1.13.0) (2025-02-20)
+
+
+### Features
+
+* **consensus:** introduce `AnchorV3GasLimit` ([#378](https://github.com/taikoxyz/taiko-geth/issues/378)) ([a0b97be](https://github.com/taikoxyz/taiko-geth/commit/a0b97be30cc01a93cebbd2d7188d28b0dcc5989a))
+* **consensus:** introduce cache for the payloads ([#380](https://github.com/taikoxyz/taiko-geth/issues/380)) ([36430eb](https://github.com/taikoxyz/taiko-geth/commit/36430eb4f53a1455eb331f58c3ad2e88d8f40ecf))
+* **consensus:** update `TaikoAnchor.anchorV3` selector ([#379](https://github.com/taikoxyz/taiko-geth/issues/379)) ([1e948cf](https://github.com/taikoxyz/taiko-geth/commit/1e948cff4c83e7a5cb0d8a4db27cbe59ce2a8884))
+* **eth:** changes based on protocol `Pacaya` fork ([#367](https://github.com/taikoxyz/taiko-geth/issues/367)) ([7bf5c0d](https://github.com/taikoxyz/taiko-geth/commit/7bf5c0d259f60f9d62d481c873053548c87b6fb5))
+* **repo:** add do-not-merge and rename files ([#390](https://github.com/taikoxyz/taiko-geth/issues/390)) ([3792f93](https://github.com/taikoxyz/taiko-geth/commit/3792f9356bfdc391fc8e112fccc7bf31d9edbb63))
+* **taiko_genesis:** update devnet genesis JSONs for new `AnchorV3` method ([#382](https://github.com/taikoxyz/taiko-geth/issues/382)) ([2448fb9](https://github.com/taikoxyz/taiko-geth/commit/2448fb97a8b873c7bd7c0051cd83aaea339050e0))
+
 ## [1.12.0](https://github.com/taikoxyz/taiko-geth/compare/v1.11.1...v1.12.0) (2025-01-31)
 
 
